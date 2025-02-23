@@ -1,0 +1,36 @@
+Senior Developer Tasks:
+Provides leadership and/or system process expertise and recommendations for software solutions;
+Participates in discussions with of software architecture with architects around standards and practices and consults with vendor as needed;
+Trains lower level developers in design principles and optimization techniques and recommends training programs targeting specific areas;
+Leads application development projects to including planning, assigning, scheduling and reviewing the work of assigned lower level developers;
+Leads application project planning processes, including identifying development tasks, efforts and timelines, and provides progress reports and posts progress in application development tracking tools such as VSTS, Jira, or other;
+Reviews deployment plans and schedules the installation of new modules, upgrades and fixes to the production environment;
+Suggests fixes to issues by doing a thorough analysis of root cause and impact of the defect;
+Evaluates existing applications and platforms and provides recommendations for improving application performance by conducting gap analysis, identifying feasible alternative solutions, and assisting in the scope of modifications;
+Troubleshoots existing information systems to identify errors or deficiencies, and identifies alternative and/or innovative solutions to technical problems;
+Interfaces with the Business Analyst and/or business representative to determine the requirements for the development of or maintenance to application(s);
+Designs, develops/codes and integrates software solutions based on business requirements and using a disciplined development process;
+Reviews modules for quality assurance;
+Develops, executes, and documents unit test plans;
+Provides daily support with resolution of escalated tickets and ongoing maintenance of applications;
+Makes modules production-ready by moving them to libraries, completing forms, following procedures, completing version control documents, etc.;
+Documents functions and changes to new or modified modules, test activities/results and other areas such as error handling and backup/recovery procedures;
+Supports and participates in the software deployment process for new modules, upgrades and fixes to the production environment;
+Evaluates new application packages and tools and perform research on best practices;
+May be assigned as a Disaster Service Worker, as required;
+Performs other related duties as required.
+
+
+Analyst Tasks:
+Conducts or participates in systems and analytical studies on organization, procedures, budgetary requirements, human resources management and other related management functions; 
+Assists with or performs cost studies, conducts surveys, and conducts feasibility studies by collecting, tabulating and analyzing a wide variety of data using appropriate statistical methods to determine trends, cycles, and underlying factors;
+Gathers data, analyzes information, and prepares reports outlining methodology, analysis and recommendations related to administrative, fiscal, organizational, human resources and management issues;
+Interviews and consults with departmental officials and employees, representatives from other organizations and groups, and the general public to give and/or secure necessary information;
+Analyzes programmatic practices and procedures and makes recommendations for organizational, operational, policy, and procedural improvements;
+Conducts needs analysis, feasibility studies, and evaluations for assigned projects and programs;
+Develops, summarizes, and maintains administrative and fiscal records; 
+Develops and analyzes quantitative data for management control and evaluation purposes;
+Prepares and presents a variety of budgetary, informational and statistical reports which may include recommendations in written, graphic, and oral presentations;
+Uses a variety of information applications and databases to collect, analyze and prepare reports; 
+May be assigned as a Disaster Service Worker, as required;
+Performs other related duties as required.
